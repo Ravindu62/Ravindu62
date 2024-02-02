@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ravindu Nanayakkara</h1>
-<h3 align="center">Undergraduate Student in BSc. Information Systems</h3>
+<h3 align="center">Undergraduate Student in BSc. Information Systems @ University of Colombo School of Computing</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravindu62&label=Profile%20views&color=0e75b6&style=flat" alt="ravindu62" /> </p>
 
