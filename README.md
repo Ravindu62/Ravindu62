@@ -37,11 +37,11 @@
   </samp>
 </p>
 
-<p align="center">
+<!-- <p align="center">
  <a href="https://Ravindu62.com" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Ravindu62" />
- </a>
- <a href="https://linkedin.com/in/al-siam" target="_blank">
+ </a> -->
+ <a href="https://www.linkedin.com/in/ravindu-nanayakkara-7a50a624b/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ravindu62"/>
  </a>
  <!-- <a href="https://dev.to/Ravindu62" target="_blank">
@@ -50,10 +50,10 @@
  <a href="https://twitter.com/_Ravindu62" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
- <a href="https://instagram.com/_Ravindu62" target="_blank">
+ <a href="https://www.instagram.com/ravindu62_official/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Ravindu62" />
  </a> 
- <a href="https://facebook.com/Ravindu62.dev" target="_blank">
+ <a href="https://www.facebook.com/profile.php?id=100080822088038" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="Ravindu62"  />
   </a> 
 </p>
@@ -101,11 +101,11 @@
 
 <br/>
 
-## Top Open Source -
+<!-- ## Top Open Source -
 [![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=Ravindu62&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Ravindu62/itasks)
 [![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=Ravindu62&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Ravindu62/urfolio)
 [![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=Ravindu62&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Ravindu62/web-projects)
-[![Ravindu Nanayakkara Readme](https://github-readme-stats.vercel.app/api/pin/?username=Ravindu62&repo=Ravindu62&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Ravindu62/Ravindu62)
+[![Ravindu Nanayakkara Readme](https://github-readme-stats.vercel.app/api/pin/?username=Ravindu62&repo=Ravindu62&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Ravindu62/Ravindu62) -->
 
 <p align="left">
   <a href="https://github.com/Ravindu62?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
