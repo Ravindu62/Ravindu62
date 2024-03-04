@@ -134,4 +134,4 @@
 </a>
 
 
-[![Ravindu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ravindu62&theme=dracula)](https://github.com/Ravindu62/github-readme-activity-graph)
+[![Ravindu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ravindu62&theme=react-dark)](https://github.com/Ravindu62/github-readme-activity-graph)
